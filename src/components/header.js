@@ -3,7 +3,7 @@ export default function Header() {
 
     return (
         <div className=" bg-white flex items-center justify-between py-4 px-8 z-10">
-            <img src={logo}></img>
+            <img src={logo} alt="Logo"></img>
             <div className=" items-center hidden lg:flex gap-x-4 h-6 text-xl text-gray-100">
                 <div className="a tracking-[-0.05em] leading-[120%] font-semibold text-darkslateblue">
                     Home

@@ -19,7 +19,7 @@ export default function Feature() {
                 </div>
             </div>
             <div className=" hidden lg:flex">
-                <img src={macbook_highlight}/>
+                <img src={macbook_highlight} alt="Mackbook"/>
             </div>
 
         </div>

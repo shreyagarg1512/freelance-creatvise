@@ -6,7 +6,7 @@ export default function Footer() {
 
         <div className="bg-slateblue flex flex-col gap-y-40 text-white p-12 font-montserrat">
             <div className=" flex mx-auto flex-col gap-y-4">
-                <img src={creative_logo_3}/>
+                <img src={creative_logo_3} alt="Logo"/>
                 <p className=" font-semibold">Empowering Curators, Enriching Perspectives</p>
             </div>
             <div className="flex flex-col lg:flex-row justify-center gap-y-6 items-center lg:justify-between">
